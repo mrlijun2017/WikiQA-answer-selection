@@ -1,0 +1,4 @@
+data/embeddings/*
+data/lemmatized/*
+.idea
+__pycache__
